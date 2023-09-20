@@ -13,7 +13,10 @@ Intrinsic Value Calculation:
 3. Run all cells and view the output components (Intrinsic Value, Current Share Price, and Margin of Safety) to see if your selected stock is over or undervalued.
 
 Technical Analysis (Simple Moving Averages):
-1.
+1. Install the necessary libraries (yfinance, pandas, hvplot, holoviews, and numpy).
+2. Copy the code (HVPlot.ipynb) into a Python file and run the script.
+3. The script will prompt you to input a stock ticker symbol. For example, you can input "AAPL" for Apple Inc. (ensure it's a valid ticker symbol for a publicly traded company).
+4. The script will download historical stock price data, calculate moving averages (50-day and 200-day), generate buy and sell signals based on moving average crossovers, and create visualizations of the stock's price chart with entry and exit points marked.
 
 Streamlit App:
 1.
@@ -28,5 +31,10 @@ Target, having recently experienced some negative FCF quarters produces a much l
 At least part of the limitations of this particular DCF model can be explained by the influential assumptions made around FCF projections, growth rates, and discount rate. Each of these components would be better served in a later iteration to be modeled out individually and in a more thorough approach.
 
 Technical Analysis notes here...
+
+In summary, this script allows users to input a stock ticker symbol, retrieves historical stock price data, calculates moving averages, generates buy and sell signals based on SMA crossovers, and visualizes the stock's price chart with entry and exit points marked. This can be a useful tool for technical analysis and trading strategy development. 
+
+Use this script as a learning tool to understand how moving averages and basic technical analysis can be applied to stock data. Experiment with different ticker symbols and parameters to gain insights into stock price trends.
+
 
 Streamlit App notes here...
