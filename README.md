@@ -16,7 +16,7 @@ Technical Analysis (Simple Moving Averages):
 1. Install the necessary libraries (yfinance, pandas, hvplot, holoviews, and numpy).
 2. Copy the code (HVPlot.ipynb) into a Python file and run the script.
 3. The script will prompt you to input a stock ticker symbol. For example, you can input "AAPL" for Apple Inc. (ensure it's a valid ticker symbol for a publicly traded company).
-4. The script will download historical stock price data, calculate moving averages (50-day and 200-day), generate buy and sell signals based on moving average crossovers, and create visualizations of the stock's price chart with entry and exit points marked.
+4. The script will download historical stock price data, calculate moving averages (50-day and 100-day), generate buy and sell signals based on moving average crossovers, and create visualizations of the stock's price chart with entry and exit points marked.
 
 Streamlit App:
 1.
