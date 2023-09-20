@@ -12,9 +12,11 @@ Intrinsic Value Calculation:
 2. Update the ticker object in cell 2.
 3. Run all cells and view the output components (Intrinsic Value, Current Share Price, and Margin of Safety) to see if your selected stock is over or undervalued.
 
-Technical Anlaysis (Simple Moving Averages):
+Technical Analysis (Simple Moving Averages):
 1.
 
+Streamlit App:
+1.
 
 ## Analysis Summary:
 The component pieces of our application work as designed; the DCF model produces a margin of over or undervalue of a specific stock. The limitations of the DCF model are evident when looking at growth companies or those that have recently exoerienced changes in FCF trends. Apple which has a strong FCF performance produces a seemingly close intrinsic value, while showing it is slightly overvalued by the market right now (8% overvalued).
@@ -26,3 +28,5 @@ Target, having recently experienced some negative FCF quarters produces a much l
 At least part of the limitations of this particular DCF model can be explained by the influential assumptions made around FCF projections, growth rates, and discount rate. Each of these components would be better served in a later iteration to be modeled out individually and in a more thorough approach.
 
 Technical Analysis notes here...
+
+Streamlit App notes here...
