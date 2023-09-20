@@ -30,7 +30,7 @@ Target, having recently experienced some negative FCF quarters produces a much l
 
 At least part of the limitations of this particular DCF model can be explained by the influential assumptions made around FCF projections, growth rates, and discount rate. Each of these components would be better served in a later iteration to be modeled out individually and in a more thorough approach.
 
-Technical Analysis notes here...
+Technical Analysis Summary:
 
 In summary, this script allows users to input a stock ticker symbol, retrieves historical stock price data, calculates moving averages, generates buy and sell signals based on SMA crossovers, and visualizes the stock's price chart with entry and exit points marked. This can be a useful tool for technical analysis and trading strategy development. 
 
