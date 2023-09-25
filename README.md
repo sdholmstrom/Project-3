@@ -50,4 +50,21 @@ In summary, this script allows users to input a stock ticker symbol, retrieves h
 Use this script as a learning tool to understand how moving averages and basic technical analysis can be applied to stock data. Experiment with different ticker symbols and parameters to gain insights into stock price trends.
 
 
-Streamlit App notes here...
+Streamlit App notes
+
+
+Analysis Summary - Trade Smart Analyzer
+
+Trade Smart Analyzer is a powerful application designed to provide users with in-depth analysis and predictions of stocks based on their intrinsic values. By leveraging advanced algorithms and financial modeling techniques, the app offers valuable insights for investment decision-making.
+
+Using the user-friendly interface, users can input stock information such as ticker symbols, financial metrics, and market trends. Trade Smart Analyzer utilizes this data to perform comprehensive analysis and generates results in both graphical and written formats, presented as data frames.
+
+The app generates interactive visualizations that allow users to explore stock performance trends, historical data, and make comparisons between multiple stocks. These graphical representations not only enhance the user experience but also provide a clear understanding of the predicted intrinsic values.
+
+In addition to the graphical results, Trade Smart Analyzer presents the analysis in written format through data frames. These data frames provide detailed information on factors considered during the analysis, including earnings growth, discounted cash flows, and market comparables. Users can easily access and review the numerical results, facilitating a deeper understanding of the stock's potential value.
+
+While the app provides valuable analysis, it's important to note that the stock market is subject to fluctuations and unpredictable factors. Trade Smart Analyzer encourages users to consider their own research and analysis, and use the app's predictions as a tool to support their investment decisions.
+
+Trade Smart Analyzer aims to provide accurate predictions, but it does not constitute financial advice. Users are recommended to consult with a qualified financial advisor or conduct their own comprehensive research before making investment choices.
+
+Experience the power of Trade Smart Analyzer today and gain valuable insights into stock predictions. Utilize the graphical visualizations and detailed data frames to enhance your understanding of stock performance and make informed investment decisions and consider multiple factors when investing in the stock market.
